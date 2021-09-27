@@ -1,0 +1,21 @@
+body  {
+    background-color: #fdfdbb;
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
+table{
+    width:15%;
+}
+
+th{
+    background-color: #259e3f;
+}
+
+td{
+    color: #ffffff;
+    text-align: right;
+}
+
